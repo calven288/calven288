@@ -1,4 +1,6 @@
-<img src="header.png" alt="banner" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/calven288/calven288/main/banner.png" alt="Calven Banner" width="100%" />
+</p>
 
 
 👋 Hi, I'm Calven
