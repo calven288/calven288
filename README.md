@@ -1,19 +1,35 @@
- 👋 你好！我是Calven
-一名专注于用户体验的UI/UX设计师 🎨
+👋 Hi, I'm Calven
 
- 🚀 我的设计领域
-- 擅长：企业级产品界面 / 数据可视化 / 搜索类产品界面设计 📊
-- 工具栈：Figma / Sketch / Adobe XD / Axure / Principle ✏️
-- 理念：用「用户视角」做「落地友好」的设计 ✨
+🎨 **Senior UI/UX Designer | Web & App Design | 10+ Years of Experience**
 
+- I design clean, modern, and user-friendly interfaces for **FinTech, IoT, and AI Investment products.  
+- Based in Asia, available for global remote work.
 
-🔍 近期相关项目
-1. 金融AI投研平台重构
-   优化数据看板交互，让用户任务完成时长缩短28% ⏱️
+---
 
-2. 电商直播界面升级
-   重构礼物打赏流程，助力互动转化率提升18% 🎁
+ 🌟 About Me
+- 10+ years of experience in UI/UX and product design
+- Strong skills in **Figma, Sketch, Photoshop, Illustrator**
+- Expertise in **Design Systems, Web/App UI, User Flow, Prototyping**
+- Previously worked with banks, enterprise platforms, and tech companies
+- Comfortable collaborating with English-speaking teams
 
+---
 
+ 🛠 Skills
+| Category | Tools & Skills |
+|---------|------------------------------|
+| UI/UX Design | Figma · Sketch · Photoshop · Illustrator |
+| Product | User Flow · Wireframes · Prototyping |
+| Collaboration | Design Handoff · Front-end structure understanding |
+| Visual | Branding · Icons · Web Layouts |
 
-> 持续用设计解决问题，期待和你一起做有意思的项目～ 😊
+---
+
+📫 Contact
+- 📧 Email: calven28@qq.com
+- 🌐 Tell: +86 13855134483
+
+---
+
+Thanks for visiting my GitHub profile!
