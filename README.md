@@ -1,5 +1,7 @@
-[<img src="header.jpg" alt="banner" width="100%" />
-](https://github.com/calven288/calven288/blob/main/header.png)
+<p align="center">
+  <img src="https://github.com/calven288/calven288/blob/main/header.png" width="100%" alt="banner" />
+</p>
+
 
 👋 Hi, I'm Calven
 
