@@ -38,3 +38,15 @@
 ---
 
 Thanks for visiting my GitHub profile!
+
+
+ 📄 Portfolio
+
+<p align="center">
+  <a href="https://github.com/calven288/calven288/raw/main/Calven-Portfolio.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Portfolio-PDF-blue?style=for-the-badge" />
+  </a>
+</p>
+
+
+
