@@ -1,3 +1,6 @@
+<img src="header.png" alt="banner" width="100%" />
+
+
 👋 Hi, I'm Calven
 
 🎨 **Senior UI/UX Designer | Web & App Design | 10+ Years of Experience**
