@@ -7,7 +7,7 @@
 
 🎨 **Senior UI/UX Designer | Web & App Design | 10+ Years of Experience**
 
-- I design clean, modern, and user-friendly interfaces for **FinTech, IoT, and AI Investment products.  
+- I design clean, modern, and user-friendly interfaces for FinTech, IoT, and AI Investment products.  
 - Based in Asia, available for global remote work.
 
 ---
