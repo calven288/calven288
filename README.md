@@ -50,6 +50,8 @@ Thanks for visiting my GitHub profile!
 
 ---
 
+---
+
 <div align="center">
 
 ### 👋 Thanks for visiting my GitHub!
@@ -72,11 +74,13 @@ Thanks for visiting my GitHub profile!
 #### 📊 GitHub Dashboard
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=calven288&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=calven288&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=calven288&show_icons=true&hide_border=true" />
+  
+  <img height="150" src="https://streak-stats.demolab.com?user=calven288&hide_border=true" />
 </p>
 
 </div>
+
 
 
 
