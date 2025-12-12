@@ -48,5 +48,35 @@ Thanks for visiting my GitHub profile!
   </a>
 </p>
 
+---
+
+<div align="center">
+
+### 👋 Thanks for visiting my GitHub!
+
+✨ *If you like my work, feel free to explore more below.*
+
+<br>
+
+<p>
+  <a href="mailto:calven28@qq.com">
+    <img src="https://img.shields.io/badge/Email-calven28@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/calven288">
+    <img src="https://img.shields.io/badge/GitHub-calven288-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+#### 📊 GitHub Dashboard
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=calven288&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=calven288&hide_border=true" />
+</p>
+
+</div>
+
 
 
