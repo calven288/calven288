@@ -50,7 +50,6 @@ Thanks for visiting my GitHub profile!
 
 ---
 
----
 
 <div align="center">
 
